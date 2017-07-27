@@ -11,8 +11,9 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
-    padding-top: 80px;
-    height: 1900px;
+    padding-top: 40px;
+    height: 100%;
+    /*1900px;*/
 }
 
 header {
@@ -139,7 +140,7 @@ header {
 }
 
 .login h1 {
-    color: #fff;
+    color: #;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     letter-spacing: 1px;
     text-align: center;
